@@ -1,0 +1,53 @@
+=== NFCBC SEO Plugin Add-on ===
+Tags: comments, links, author, spam, follow, nofollow, dofollow, plugin
+Contributors: alexkingorg, fob
+Requires at least: 2.2
+Tested up to: 2.8
+Stable tag: 1.0
+
+**NFCBC SEO Plugin Add-on** requires a Follow-/Nofollow-Plugin like 
+[NFCBC SEO Light](http://www.fob-marketing.de/marketing-seo-blog/nfcbc-seo-light-the-light-version-of-nofollow-case-by-case.html "NFCBC SEO Light") or 
+[Nofollow Case by Case](http://www.fob-marketing.de/marketing-seo-blog/wordpress-nofollow-seo-plugin-nofollow-case-by-case.html "Nofollow Case by Case").
+It gives you the ability to modify the link a commenter left as their URL without removing the entire comment.
+
+== Installation ==
+
+1. Download the plugin archive and expand it (you've likely already done this).
+2. Put the 'nfcbc-seo-plugin-add-on.php' file into your wp-content/plugins/ directory.
+3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for NFCBC SEO Plugin Add-on.
+
+
+== Usage ==
+
+Click on the link in your comment e-mail notification or in the comment list to make follow links nofollow for their comment.
+
+
+== Known Issues ==
+
+Adding the link to the comment list requires jQuery, which is included in WordPress 2.2 and later.
+
+
+== Frequently Asked Questions ==
+
+= Why doesn't the link appear in my comment list? =
+
+See the Known Issues above.
+
+= Do you plan to release a version compatible with versions of WordPress prior to 2.2? =
+
+No, and for security reasons it is a good idea to keep your version of WordPress up to date.
+
+= Anything else? =
+
+That about does it - enjoy!
+
+This comment management plugin is based on the idea of Alex King. 
+Find the original delink plugin here. You might want to use this, too. 
+
+--Alex King
+http://alexking.org/projects/wordpress
+
+Nofollow version and Nofollow Plugins can be found here:
+
+-- Oliver Bockelmann (fob marketing)
+http://www.fob-marketing.de/marketing-seo-blog-kategorie/internet/wordpress/my-wordpress-plugins/
